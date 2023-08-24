@@ -503,6 +503,7 @@
   { "name": "plPL", "kind": "Variable" },
   { "name": "PreferencesPanelPropsOverrides", "kind": "Interface" },
   { "name": "ptBR", "kind": "Variable" },
+  { "name": "ptPT", "kind": "Variable" },
   { "name": "renderActionsCell", "kind": "Variable" },
   { "name": "renderBooleanCell", "kind": "Variable" },
   { "name": "renderEditBooleanCell", "kind": "Variable" },

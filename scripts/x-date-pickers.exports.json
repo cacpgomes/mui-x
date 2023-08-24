@@ -215,6 +215,7 @@
   { "name": "PickersYearClassKey", "kind": "TypeAlias" },
   { "name": "plPL", "kind": "Variable" },
   { "name": "ptBR", "kind": "Variable" },
+  { "name": "ptPT", "kind": "Variable" },
   { "name": "renderDateViewCalendar", "kind": "Variable" },
   { "name": "renderDigitalClockTimeView", "kind": "Variable" },
   { "name": "renderMultiSectionDigitalClockTimeView", "kind": "Variable" },
